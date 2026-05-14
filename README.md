@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Soumitra Samanta!
-![Profile Views](https://komarev.com/ghpvc/?username=soumitrasamanta506&color=blueviolet)
 
 🎓 Final-year **Computer Science & Engineering** student at the **College of Engineering and Management, Kolaghat (2022–2026)**  
 💡 Passionate about **Software Development**, **Problem Solving**, and **Full-Stack Engineering**.  
